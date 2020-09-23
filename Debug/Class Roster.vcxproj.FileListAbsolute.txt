@@ -1,0 +1,2 @@
+D:\Development\Class Roster, a c++ project\Class Roster\Debug\ClassRoster.exe
+D:\Development\Class Roster, a c++ project\Class Roster\Debug\ClassRoster.pdb
